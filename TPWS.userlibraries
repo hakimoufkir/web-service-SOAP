@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.glassfish.gmbal:gmbal-api-only:4.0.3">
+    <archive path="C:/Users/Asmae/.m2/repository/org/glassfish/gmbal/gmbal-api-only/4.0.3/gmbal-api-only-4.0.3.jar" />
+  </library>
+  <library name="Maven: org.glassfish.external:management-api:3.2.3">
+    <archive path="C:/Users/Asmae/.m2/repository/org/glassfish/external/management-api/3.2.3/management-api-3.2.3.jar" />
+  </library>
+  <library name="Maven: org.glassfish.ha:ha-api:3.1.13">
+    <archive path="C:/Users/Asmae/.m2/repository/org/glassfish/ha/ha-api/3.1.13/ha-api-3.1.13.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-core:4.0.4">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/bind/jaxb-core/4.0.4/jaxb-core-4.0.4.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.fastinfoset:FastInfoset:2.1.0">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/2.1.0/FastInfoset-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.jvnet.mimepull:mimepull:1.10.0">
+    <archive path="C:/Users/Asmae/.m2/repository/org/jvnet/mimepull/mimepull/1.10.0/mimepull-1.10.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.stream.buffer:streambuffer:2.1.0">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/stream/buffer/streambuffer/2.1.0/streambuffer-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.jvnet.staxex:stax-ex:2.1.0">
+    <archive path="C:/Users/Asmae/.m2/repository/org/jvnet/staxex/stax-ex/2.1.0/stax-ex-2.1.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-impl:4.0.4">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/bind/jaxb-impl/4.0.4/jaxb-impl-4.0.4.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.Server:jaxws-rt:4.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/Server/jaxws-rt/4.0.2/jaxws-rt-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.core:4.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/4.0.2/org.eclipse.persistence.core-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.moxy:4.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.2/org.eclipse.persistence.moxy-4.0.2.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.Server:jaxws-eclipselink-plugin:4.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/Server/jaxws-eclipselink-plugin/4.0.2/jaxws-eclipselink-plugin-4.0.2.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-jxc:4.0.4">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/bind/jaxb-jxc/4.0.4/jaxb-jxc-4.0.4.jar" />
+  </library>
+  <library name="Maven: jakarta.activation:jakarta.activation-api:2.1.2">
+    <archive path="C:/Users/Asmae/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.2/jakarta.activation-api-2.1.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.sdo:4.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.sdo/4.0.2/org.eclipse.persistence.sdo-4.0.2.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.Server:sdo-eclipselink-plugin:4.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/Server/sdo-eclipselink-plugin/4.0.2/sdo-eclipselink-plugin-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.asm:9.5.0">
+    <archive path="C:/Users/Asmae/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.5.0/org.eclipse.persistence.asm-9.5.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.messaging.saaj:saaj-impl:3.0.3">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/messaging/saaj/saaj-impl/3.0.3/saaj-impl-3.0.3.jar" />
+  </library>
+  <library name="Maven: org.eclipse.angus:angus-mail:2.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/org/eclipse/angus/angus-mail/2.0.2/angus-mail-2.0.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.angus:angus-activation:2.0.1">
+    <archive path="C:/Users/Asmae/.m2/repository/org/eclipse/angus/angus-activation/2.0.1/angus-activation-2.0.1.jar" />
+  </library>
+  <library name="Maven: jakarta.mail:jakarta.mail-api:2.1.2">
+    <archive path="C:/Users/Asmae/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-xjc:4.0.4">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/bind/jaxb-xjc/4.0.4/jaxb-xjc-4.0.4.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.Server:jaxws-tools:4.0.2">
+    <archive path="C:/Users/Asmae/.m2/repository/com/sun/xml/Server/jaxws-tools/4.0.2/jaxws-tools-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.woodstox:stax2-api:4.2.2">
+    <archive path="C:/Users/Asmae/.m2/repository/org/codehaus/woodstox/stax2-api/4.2.2/stax2-api-4.2.2.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.woodstox:woodstox-core:6.5.1">
+    <archive path="C:/Users/Asmae/.m2/repository/com/fasterxml/woodstox/woodstox-core/6.5.1/woodstox-core-6.5.1.jar" />
+  </library>
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1">
+    <archive path="C:/Users/Asmae/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.soap:jakarta.xml.soap-api:3.0.1">
+    <archive path="C:/Users/Asmae/.m2/repository/jakarta/xml/soap/jakarta.xml.soap-api/3.0.1/jakarta.xml.soap-api-3.0.1.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.1">
+    <archive path="C:/Users/Asmae/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.1/jakarta.xml.bind-api-4.0.1.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.Server:jakarta.xml.Server-api:4.0.1">
+    <archive path="C:/Users/Asmae/.m2/repository/jakarta/xml/Server/jakarta.xml.Server-api/4.0.1/jakarta.xml.Server-api-4.0.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
